@@ -1,0 +1,21 @@
+# 								GitHub
+
+
+
+## Conceito:
+
+​	O GitHub **é um serviço de hospedagem baseado na Web para repositórios Git**, como aqueles usados para armazenar conteúdo do Microsoft Learn . Para qualquer projeto, o GitHub hospeda o repositório principal, do qual os colaboradores podem fazer cópias para seus próprios trabalhos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fonte: https://learn.microsoft.com/pt-br/contribute/git-github-fundamentals
